@@ -1,0 +1,26 @@
+ol li a {
+text-decoration: none;
+color: blue;
+}
+#column1 {
+border-right: solid 3.5px;
+font-size: 20px;
+text-decoration: none;
+}
+div.header {
+  text-align: center;
+  border-bottom: solid 3.5px;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+div.header a {
+  text-decoration: none;
+  color: blue;
+}
+.row {
+  display:grid;
+  grid : auto / 1fr 4fr ;
+}
+span {
+  text-decoration: underline;
+}
